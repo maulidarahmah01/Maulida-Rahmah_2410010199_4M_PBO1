@@ -5,7 +5,7 @@
 - **Nama:** Maulida Rahmah
 - **NPM:** 2410010199
 - **Kelas:** 4M
-- **Mata Kuliah:** Pemrograman Berorientasi Objek
+- **Mata Kuliah:** Pemrograman Berbasis Objek
 
 ---
 
@@ -73,4 +73,4 @@ SecondWear
 
 ## Kesimpulan
 
-Program SecondWear berhasil menerapkan seluruh konsep dasar Pemrograman Berorientasi Objek sesuai dengan ketentuan tugas UAS.
+Program SecondWear berhasil menerapkan seluruh konsep dasar Pemrograman Berbasis Objek sesuai dengan ketentuan tugas UAS.
