@@ -1,6 +1,6 @@
 # Proyek Akhir Pemrograman Berbasis Objek 1
 
-Proyek ini merupakan aplikasi sederhana berbasis Java yang dibuat sebagai tugas akhir mata kuliah Pemrograman Berorientasi Objek 1.
+Proyek ini merupakan aplikasi sederhana berbasis Java yang dibuat sebagai tugas akhir mata kuliah Pemrograman Berbasis Objek 1.
 
 ## Deskripsi
 
@@ -10,7 +10,7 @@ Aplikasi ini digunakan untuk membantu admin dalam mengelola penjualan baju prelo
 
 Program dibuat menggunakan bahasa pemrograman **Java** dengan IDE **Apache NetBeans**.
 
-Aplikasi ini mengimplementasikan beberapa konsep penting dalam Pemrograman Berorientasi Objek (PBO) seperti Class, Object, Attribute, Constructor, Mutator, Accessor, Encapsulation, Inheritance, Polymorphism, Seleksi, Perulangan, Input Output Sederhana, ArrayList, dan Error Handling.
+Aplikasi ini mengimplementasikan beberapa konsep penting dalam Pemrograman Berbasis Objek (PBO) seperti Class, Object, Attribute, Constructor, Mutator, Accessor, Encapsulation, Inheritance, Polymorphism, Seleksi, Perulangan, Input Output Sederhana, ArrayList, dan Error Handling.
 
 ---
 
