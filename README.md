@@ -301,7 +301,7 @@ Program **SecondWear** memiliki beberapa fitur utama, yaitu:
 
 **Kelas** : 4M Reguler Pagi
 
-**Mata Kuliah** : Pemrograman Berorientasi Objek 1
+**Mata Kuliah** : Pemrograman Berbasis Objek 1
 
 ---
 
