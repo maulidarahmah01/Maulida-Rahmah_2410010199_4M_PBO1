@@ -1,4 +1,4 @@
-# Proyek Akhir Pemrograman Berorientasi Objek 1
+# Proyek Akhir Pemrograman Berbasis Objek 1
 
 Proyek ini merupakan aplikasi sederhana berbasis Java yang dibuat sebagai tugas akhir mata kuliah Pemrograman Berorientasi Objek 1.
 
